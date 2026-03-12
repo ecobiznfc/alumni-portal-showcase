@@ -16,5 +16,5 @@ A full-stack alumni management system built for MEFGAA organisation.
 - Database: [your DB]
 
 ## Built by
-[EcoBizNFC Solutions](https://ecobiznfc.com) — 
+[Eco Biznfc Solutions](https://ecobiznfc.com) — 
 Custom web app development for startups and organisations.
